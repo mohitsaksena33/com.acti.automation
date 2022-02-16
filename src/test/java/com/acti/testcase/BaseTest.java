@@ -1,6 +1,9 @@
 package com.acti.testcase;
 
 import org.testng.annotations.AfterMethod;
+/* Name:Base Test
+ * *Description This script is a parent script which has the requisite steps before executing the actual test
+*/
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.DataProvider;
 
